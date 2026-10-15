@@ -65,6 +65,9 @@ A one-year sales dashboard for a **$2.75B** multi-store retailer: **1M transacti
 A two-page churn dashboard for **7,043 telecom customers**: a **26.5% churn rate** costing **$139K a month** in lost charges, with the drivers, reasons and cities behind it.
 <br>`Power BI` · `DAX` · `Power Query` · `Churn Analysis`
 
+### 📦 [Olist E-commerce Analysis](https://github.com/teejay-data-io/olist-ecommerce-analysis)
+Why do 97% of marketplace customers buy only once? Behaviour, retention and engagement across **96,478 delivered orders**: late delivery drops reviews from **4.29 to 2.57** stars.<br>`MySQL` · `Python` · `Power BI (in progress)`
+
 <p>
   <a href="https://github.com/teejay-data-io/Data_Analysis_Portfolio"><img src="https://img.shields.io/badge/View%20Full%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Full Portfolio"/></a>
 </p>
